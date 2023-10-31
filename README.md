@@ -8,6 +8,7 @@ Welcome to the Cosmic Defenders. A Space Invaders Clone and a tribute to the cla
    -  For the first stage of development, I will create a ship capable of moving both right and left. The ship should also be able to fire bullets when the player presses the spacebar. After establishing this functionality, we can shift our focus to the enemy ships, enhance the gameplay, set up the menus, and add music, among other improvements.
    -  Next, I will add a ship to the game and create a ship class to manage all the features of the ship.
    -  Next, I will simplify the game structure by adding game functions. I will also implement the ability to pilot the ship so that the player can move the ship left and right using the left and right arrow keys.
+   -  Next, I will add the ship factor and limit the ship's movement range to ensure it cannot go beyond the boundaries of the screen.
 3. Installation
 4. How to Play
 5. Contributing
