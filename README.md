@@ -9,6 +9,7 @@ Welcome to the Cosmic Defenders. A Space Invaders Clone and a tribute to the cla
    -  Next, I will add a ship to the game and create a ship class to manage all the features of the ship.
    -  Next, I will simplify the game structure by adding game functions. I will also implement the ability to pilot the ship so that the player can move the ship left and right using the left and right arrow keys.
    -  Next, I will add the ship factor and limit the ship's movement range to ensure it cannot go beyond the boundaries of the screen.
+   -  Next I wil be adding the ability to fire bullets from the player's space ship when the spacebar is pressed.
 3. Installation
 4. How to Play
 5. Contributing
